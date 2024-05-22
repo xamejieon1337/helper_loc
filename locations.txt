@@ -1,0 +1,59 @@
+{
+  "de_bank": [
+    {
+      "name": ["Unnamed", "Truck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-257.2179870605469, -792.9268188476563, 188.03125],
+      "viewangles": [-3.011320114135742, 4.570480823516846],
+      "grenade": {
+        "run": 7.0
+      }
+    },
+    {
+      "name": ["Unnamed", "Truck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-244.8822784423828, -807.4978637695313, 188.03125],
+      "viewangles": [-4.033031463623047, 6.0228190422058105],
+      "grenade": {
+        "run": 7.0
+      }
+    },
+    {
+      "name": ["Unnamed", "Truck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-136.88223266601563, -544.2826538085938, 210.03125],
+      "viewangles": [-1.929067850112915, -5.585455417633057],
+      "grenade": {
+        "run": 2.0
+      }
+    },
+    {
+      "name": ["Unnamed", "SWAT [left teamhelp]"],
+      "weapon": "weapon_hegrenade",
+      "position": [-143.69125366210938, -619.0878295898438, 210.03125],
+      "viewangles": [-13.006182670593262, 9.68641471862793],
+      "grenade": {
+        "run": 21.0
+      }
+    },
+    {
+      "name": ["Unnamed", "bank"],
+      "weapon": "weapon_hegrenade",
+      "position": [1160.407958984375, -345.6712646484375, -26.97842025756836],
+      "viewangles": [-9.941123008728027, 177.0873260498047],
+      "grenade": {
+        "run": 27.0
+      }
+    },
+    {
+      "name": ["Unnamed", "truck  (only body)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-207.42320251464844, -811.4507446289063, 188.03125],
+      "viewangles": [-3.0708000659942627, 6.9255828857421875],
+      "grenade": {
+        "recovery_yaw": -90.0,
+        "run": 11.0
+      }
+    }
+  ]
+}
